@@ -34,7 +34,7 @@ In a real recruitment process, compare conversion rates at each stage and review
 - `hiring_rate_by_source.png` — hiring rate chart
 
 ## Dashboard
-Google Sheets dashboard link:(https://docs.google.com/spreadsheets/d/1A1FLKD45qg_dQdJZwj3ACNzlbRpDpZg6aNjOM9mJBJA/edit?usp=sharing)
+[**View the Recruitment Funnel & Hiring Analytics Dashboard**](https://docs.google.com/spreadsheets/d/1A1FLKD45qg_dQdJZwj3ACNzlbRpDpZg6aNjOM9mJBJA/edit?usp=sharing)
 
 ## How to reproduce
 1. Open DB Browser for SQLite.
