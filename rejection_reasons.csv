@@ -1,0 +1,13 @@
+stage_reached,rejected_reason,n
+Interview1,Technical skills gap,12
+Interview1,Role expectations mismatch,11
+Interview1,Communication skills mismatch,9
+Interview2,Insufficient role-specific experience,13
+Interview2,Team fit concerns,12
+Interview2,Other candidate selected,7
+Offer,Accepted another offer,13
+Offer,Offer declined,7
+Offer,Compensation mismatch,1
+Screened,Insufficient experience,21
+Screened,Missing required skills,18
+Screened,Salary expectations mismatch,13
